@@ -10,10 +10,11 @@ public class PacManController : MonoBehaviour
 
     public float pacSpeed = 4.0f;
     private UnityEngine.Vector2 direction = UnityEngine.Vector2.zero;
-    void Start()
-    {
-        
-    }
+   // private  AudioSource audioSrc;
+    //void Awake()
+    //{
+      //  audioSrc = GetComponent<AudioSource>();
+    //}
 
     // Update is called once per frame
     void Update()
@@ -21,6 +22,11 @@ public class PacManController : MonoBehaviour
         CheckInput();
         Move();
         UpdateOrientation();
+        //if (!audioSrc.isPlaying)
+        //{
+         //   audioSrc.Play();
+        //}
+       
     }
     
     void CheckInput()
@@ -47,23 +53,23 @@ public class PacManController : MonoBehaviour
     {
         if(direction == UnityEngine.Vector2.left)
         {
-            transform.localScale = new UnityEngine.Vector3(-1, 1, 1);
+            transform.localScale = new UnityEngine.Vector3(1, 1, 1);
             transform.localRotation = Quaternion.Euler(0, 0, 0);
         }
         if (direction == UnityEngine.Vector2.right)
         {
-            transform.localScale = new UnityEngine.Vector3(1, 1, 1);
+            transform.localScale = new UnityEngine.Vector3(-1, 1, 1);
             transform.localRotation = Quaternion.Euler(0, 0, 0);
         }
         if (direction == UnityEngine.Vector2.up)
         {
             transform.localScale = new UnityEngine.Vector3(1, 1, 1);
-            transform.localRotation = Quaternion.Euler(0, 0, 90);
+            transform.localRotation = Quaternion.Euler(0, 0, 270);
         }
         if (direction == UnityEngine.Vector2.down)
         {
             transform.localScale = new UnityEngine.Vector3(1, 1, 1);
-            transform.localRotation = Quaternion.Euler(0, 0, 270);
+            transform.localRotation = Quaternion.Euler(0, 0, 90);
         }
 
 
