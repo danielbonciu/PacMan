@@ -48,7 +48,13 @@ public class PacManController : MonoBehaviour
             direction = UnityEngine.Vector2.up;
         }
     }
-    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.gameObject.CompareTag("Coin"))
+        {
+            Destroy(other.gameObject);
+        }
+    }
     void UpdateOrientation()
     {
         if(direction == UnityEngine.Vector2.left)
