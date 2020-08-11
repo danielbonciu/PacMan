@@ -8,11 +8,13 @@ public class Tiles : MonoBehaviour
     public bool isPellet;
     public bool isSuperPellet;
     public bool didConsume;
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if(collision.gameObject.CompareTag("Player"))
-    //    { 
-    //        ScoreManager.instace.ChangeScore(1); 
-    //    }
-    //}
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player") && didConsume == false)
+        {
+            ScoreManager.instace.ChangeScore(1);
+        }
+    }
 }
