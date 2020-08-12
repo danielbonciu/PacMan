@@ -17,6 +17,8 @@ public class PacManController : MonoBehaviour
     private UnityEngine.Vector2 direction = UnityEngine.Vector2.zero;
     private UnityEngine.Vector2 nextDirection;
 
+    private int pelletsConsumed = 0;
+
     private Node currentNode, previousNode, targetNode;
 
     // private  AudioSource audioSrc;
@@ -40,6 +42,9 @@ public class PacManController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Debug.Log("GOAL:" + GameObject.Find("Game").GetComponent<GameBoard>().totalPellets);
+        Debug.Log("SCORE:" + GameObject.Find("Game").GetComponent<GameBoard>().score);
+
         CheckInput();
 
         Move();
@@ -203,13 +208,14 @@ public class PacManController : MonoBehaviour
     }
 
 
-    //private void OnTriggerEnter2D(Collider2D other)
-    //{
-    //    if (other.gameObject.CompareTag("Coin"))
-    //    {
-    //        Destroy(other.gameObject);
-    //    }
-    //}
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("GAME OVER!");
+            return;
+        }
+    }
 
     void ConsumePellet()
     {
@@ -224,6 +230,8 @@ public class PacManController : MonoBehaviour
                 if (!tile.didConsume && (tile.isPellet || tile.isSuperPellet)){
                     o.GetComponent<SpriteRenderer>().enabled = false;
                     tile.didConsume = true;
+                    GameObject.Find("Game").GetComponent<GameBoard>().score += 1;
+                    pelletsConsumed++;
                 }
             }
         }

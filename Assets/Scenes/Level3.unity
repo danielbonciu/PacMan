@@ -157,8 +157,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -223,8 +223,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -290,8 +290,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -340,8 +340,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -390,8 +390,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -440,8 +440,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2063,9 +2063,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 22.7855, y: 10.107792, z: -172.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1085042415}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &366626390
 MonoBehaviour:
@@ -2120,8 +2121,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2186,8 +2187,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2252,8 +2253,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2302,8 +2303,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2415,8 +2416,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2465,8 +2466,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2531,8 +2532,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2581,8 +2582,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2631,8 +2632,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2681,8 +2682,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2731,8 +2732,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2781,8 +2782,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2795,50 +2796,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &800654245
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 800654247}
-  - component: {fileID: 800654246}
-  m_Layer: 0
-  m_Name: ScoreManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &800654246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 800654245}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6dd17f8d03a7fe4489bb9f8b92ba1ea3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  text: {fileID: 942018761}
---- !u!4 &800654247
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 800654245}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.51488, y: 40.50088, z: -311.3486}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &836678187
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2875,8 +2832,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3008,8 +2965,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3056,8 +3013,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 112, y: -24.5}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 484, y: -65}
+  m_SizeDelta: {x: 215.83255, y: 73.40466}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &942018761
 MonoBehaviour:
@@ -3078,7 +3035,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Score:'
+  m_text: 'Score: '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3147,9 +3104,9 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 942018761}
-    characterCount: 6
+    characterCount: 7
     spriteCount: 0
-    spaceCount: 0
+    spaceCount: 1
     wordCount: 1
     linkCount: 0
     lineCount: 1
@@ -3232,8 +3189,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3282,8 +3239,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3405,7 +3362,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -407008199
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 9ab06c522f6224b45a1bdd73644fb41e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3426,11 +3383,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1001028878}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.2, y: 8.32, z: -2.8014264}
+  m_LocalPosition: {x: 21.22, y: 8.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1001028885
 Animator:
@@ -3503,8 +3460,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3719,8 +3676,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3743,10 +3700,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1085042415}
   - component: {fileID: 1085042414}
-  - component: {fileID: 1085042413}
-  - component: {fileID: 1085042412}
   - component: {fileID: 1085042411}
   - component: {fileID: 1085042410}
+  - component: {fileID: 1085042413}
+  - component: {fileID: 1085042412}
   m_Layer: 0
   m_Name: Pinky
   m_TagString: Enemy
@@ -3796,12 +3753,12 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.53
+  m_Radius: 0.3
 --- !u!50 &1085042413
 Rigidbody2D:
   serializedVersion: 4
@@ -3860,7 +3817,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -407008199
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 209be831d1dcec24ab7752e50b7ba210, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3880,12 +3837,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1085042409}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.22, y: 10.44, z: -2.8014264}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.5655003, y: 0.30220795, z: 172.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 346010970}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1086885729
 SpriteRenderer:
@@ -3923,8 +3880,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3989,8 +3946,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4055,8 +4012,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4105,8 +4062,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4221,8 +4178,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4264,6 +4221,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e6b4b8c2939e6e419e7540f218e5e7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  totalPellets: 0
+  score: 0
+  text: {fileID: 942018761}
 --- !u!4 &1316638783
 Transform:
   m_ObjectHideFlags: 0
@@ -4276,7 +4236,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1317400347
 MonoBehaviour:
@@ -4334,8 +4294,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4384,8 +4344,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4434,8 +4394,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4484,8 +4444,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4534,8 +4494,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4584,8 +4544,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4650,8 +4610,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4700,8 +4660,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4766,8 +4726,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4834,8 +4794,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4901,8 +4861,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5001,8 +4961,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5067,8 +5027,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5117,8 +5077,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5167,8 +5127,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5217,8 +5177,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5267,8 +5227,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5307,7 +5267,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1862425928}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.410002, y: 10.6, z: 0}
+  m_LocalPosition: {x: 18.55, y: 10.57, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 518334760}
@@ -6770,8 +6730,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6837,8 +6797,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6887,8 +6847,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6937,8 +6897,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6987,8 +6947,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7136,8 +7096,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2045917609
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9936cbb18439b404ba3068470f079edd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8983,6 +8943,7 @@ GameObject:
   - component: {fileID: 8981942015665666885}
   - component: {fileID: 4167692456930897734}
   - component: {fileID: 529688992}
+  - component: {fileID: 7715023563116213957}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -8990,6 +8951,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563116213957
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563116213956}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563154278696
 GameObject:
   m_ObjectHideFlags: 0
@@ -9004,6 +8984,7 @@ GameObject:
   - component: {fileID: 4167692456968310954}
   - component: {fileID: 1070454854}
   - component: {fileID: 1070454853}
+  - component: {fileID: 7715023563154278697}
   m_Layer: 0
   m_Name: Point(3)
   m_TagString: Coin
@@ -9011,6 +8992,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563154278697
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563154278696}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563259315255
 GameObject:
   m_ObjectHideFlags: 0
@@ -9024,6 +9024,7 @@ GameObject:
   - component: {fileID: 8981942015791991222}
   - component: {fileID: 4167692456804523445}
   - component: {fileID: 614110552}
+  - component: {fileID: 7715023563259315256}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9031,6 +9032,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563259315256
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563259315255}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563324979373
 GameObject:
   m_ObjectHideFlags: 0
@@ -9044,6 +9064,7 @@ GameObject:
   - component: {fileID: 8981942015724352812}
   - component: {fileID: 4167692456738906415}
   - component: {fileID: 2000556206}
+  - component: {fileID: 7715023563324979374}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9051,6 +9072,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563324979374
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563324979373}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563337380629
 GameObject:
   m_ObjectHideFlags: 0
@@ -9065,6 +9105,7 @@ GameObject:
   - component: {fileID: 4167692456776805015}
   - component: {fileID: 70636978}
   - component: {fileID: 70636977}
+  - component: {fileID: 7715023563337380630}
   m_Layer: 0
   m_Name: Point(14)
   m_TagString: Coin
@@ -9072,6 +9113,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563337380630
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563337380629}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563369278468
 GameObject:
   m_ObjectHideFlags: 0
@@ -9086,6 +9146,7 @@ GameObject:
   - component: {fileID: 4167692457214702982}
   - component: {fileID: 366626391}
   - component: {fileID: 366626390}
+  - component: {fileID: 7715023563369278469}
   m_Layer: 0
   m_Name: Point(15)
   m_TagString: Coin
@@ -9093,6 +9154,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563369278469
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563369278468}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563473903855
 GameObject:
   m_ObjectHideFlags: 0
@@ -9106,6 +9186,7 @@ GameObject:
   - component: {fileID: 8981942015902510446}
   - component: {fileID: 4167692457185573229}
   - component: {fileID: 2146391926}
+  - component: {fileID: 7715023563473903856}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9113,6 +9194,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563473903856
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563473903855}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563563798722
 GameObject:
   m_ObjectHideFlags: 0
@@ -9126,6 +9226,7 @@ GameObject:
   - component: {fileID: 8981942016092544323}
   - component: {fileID: 4167692457104017728}
   - component: {fileID: 1225275963}
+  - component: {fileID: 7715023563563798723}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9133,6 +9234,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563563798723
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563563798722}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563566791089
 GameObject:
   m_ObjectHideFlags: 0
@@ -9147,6 +9267,7 @@ GameObject:
   - component: {fileID: 4167692457008767027}
   - component: {fileID: 387932501}
   - component: {fileID: 387932500}
+  - component: {fileID: 7715023563566791090}
   m_Layer: 0
   m_Name: Point(11)
   m_TagString: Coin
@@ -9154,6 +9275,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563566791090
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563566791089}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563661892442
 GameObject:
   m_ObjectHideFlags: 0
@@ -9167,6 +9307,7 @@ GameObject:
   - component: {fileID: 8981942016194827995}
   - component: {fileID: 4167692457475719896}
   - component: {fileID: 1516815694}
+  - component: {fileID: 7715023563661892443}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9174,6 +9315,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563661892443
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563661892442}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563666275772
 GameObject:
   m_ObjectHideFlags: 0
@@ -9187,6 +9347,7 @@ GameObject:
   - component: {fileID: 8981942016250196029}
   - component: {fileID: 4167692457513264190}
   - component: {fileID: 583866847}
+  - component: {fileID: 7715023563666275773}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9194,6 +9355,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563666275773
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563666275772}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563689828932
 GameObject:
   m_ObjectHideFlags: 0
@@ -9208,6 +9388,7 @@ GameObject:
   - component: {fileID: 4167692457506487238}
   - component: {fileID: 1697383135}
   - component: {fileID: 1697383134}
+  - component: {fileID: 7715023563689828933}
   m_Layer: 0
   m_Name: Point(1)
   m_TagString: Coin
@@ -9215,6 +9396,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563689828933
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563689828932}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563778886164
 GameObject:
   m_ObjectHideFlags: 0
@@ -9229,6 +9429,7 @@ GameObject:
   - component: {fileID: 4167692457358693270}
   - component: {fileID: 944535423}
   - component: {fileID: 944535422}
+  - component: {fileID: 7715023563778886165}
   m_Layer: 0
   m_Name: Point(4)
   m_TagString: Coin
@@ -9236,6 +9437,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563778886165
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563778886164}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563844373269
 GameObject:
   m_ObjectHideFlags: 0
@@ -9250,6 +9470,7 @@ GameObject:
   - component: {fileID: 4167692457284850327}
   - component: {fileID: 1900739688}
   - component: {fileID: 1900739687}
+  - component: {fileID: 7715023563844373270}
   m_Layer: 0
   m_Name: Point(8)
   m_TagString: Coin
@@ -9257,6 +9478,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563844373270
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563844373269}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563874213418
 GameObject:
   m_ObjectHideFlags: 0
@@ -9270,6 +9510,7 @@ GameObject:
   - component: {fileID: 8981942016319067051}
   - component: {fileID: 4167692457313699752}
   - component: {fileID: 585182667}
+  - component: {fileID: 7715023563874213419}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9277,6 +9518,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563874213419
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563874213418}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563914379387
 GameObject:
   m_ObjectHideFlags: 0
@@ -9291,6 +9551,7 @@ GameObject:
   - component: {fileID: 4167692457760070137}
   - component: {fileID: 64004536}
   - component: {fileID: 64004535}
+  - component: {fileID: 7715023563914379388}
   m_Layer: 0
   m_Name: Point(7)
   m_TagString: Coin
@@ -9298,6 +9559,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563914379388
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563914379387}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563930182285
 GameObject:
   m_ObjectHideFlags: 0
@@ -9311,6 +9591,7 @@ GameObject:
   - component: {fileID: 8981942016463384332}
   - component: {fileID: 4167692457744284431}
   - component: {fileID: 1823552535}
+  - component: {fileID: 7715023563930182286}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9318,6 +9599,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563930182286
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563930182285}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023563997458555
 GameObject:
   m_ObjectHideFlags: 0
@@ -9332,6 +9632,7 @@ GameObject:
   - component: {fileID: 4167692457677007353}
   - component: {fileID: 1317400348}
   - component: {fileID: 1317400347}
+  - component: {fileID: 7715023563997458556}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9339,6 +9640,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023563997458556
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023563997458555}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564047481467
 GameObject:
   m_ObjectHideFlags: 0
@@ -9353,6 +9673,7 @@ GameObject:
   - component: {fileID: 4167692457627018233}
   - component: {fileID: 1029171060}
   - component: {fileID: 1029171059}
+  - component: {fileID: 7715023564047481468}
   m_Layer: 0
   m_Name: Point(5)
   m_TagString: Coin
@@ -9360,6 +9681,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564047481468
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564047481467}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564137307324
 GameObject:
   m_ObjectHideFlags: 0
@@ -9373,6 +9713,7 @@ GameObject:
   - component: {fileID: 8981942016582291773}
   - component: {fileID: 4167692457579087166}
   - component: {fileID: 1787407165}
+  - component: {fileID: 7715023564137307325}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9380,6 +9721,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564137307325
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564137307324}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564216868602
 GameObject:
   m_ObjectHideFlags: 0
@@ -9393,6 +9753,7 @@ GameObject:
   - component: {fileID: 8981942014632072059}
   - component: {fileID: 4167692455914080120}
   - component: {fileID: 1311082046}
+  - component: {fileID: 7715023564216868603}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9400,6 +9761,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564216868603
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564216868602}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564278705157
 GameObject:
   m_ObjectHideFlags: 0
@@ -9413,6 +9793,7 @@ GameObject:
   - component: {fileID: 8981942014564016516}
   - component: {fileID: 4167692455843870087}
   - component: {fileID: 1830603145}
+  - component: {fileID: 7715023564278705158}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9420,6 +9801,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564278705158
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564278705157}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564299145370
 GameObject:
   m_ObjectHideFlags: 0
@@ -9434,6 +9834,7 @@ GameObject:
   - component: {fileID: 4167692455831800088}
   - component: {fileID: 1697857452}
   - component: {fileID: 1697857451}
+  - component: {fileID: 7715023564299145371}
   m_Layer: 0
   m_Name: Point(18)
   m_TagString: Coin
@@ -9441,6 +9842,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564299145371
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564299145370}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564320441638
 GameObject:
   m_ObjectHideFlags: 0
@@ -9455,6 +9875,7 @@ GameObject:
   - component: {fileID: 4167692455718231204}
   - component: {fileID: 1671945999}
   - component: {fileID: 1671945998}
+  - component: {fileID: 7715023564320441639}
   m_Layer: 0
   m_Name: Point(2)
   m_TagString: Coin
@@ -9462,6 +9883,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564320441639
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564320441638}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564341022975
 GameObject:
   m_ObjectHideFlags: 0
@@ -9475,6 +9915,7 @@ GameObject:
   - component: {fileID: 8981942014777466238}
   - component: {fileID: 4167692455773145469}
   - component: {fileID: 1086885729}
+  - component: {fileID: 7715023564341022976}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9482,6 +9923,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564341022976
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564341022975}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564349481945
 GameObject:
   m_ObjectHideFlags: 0
@@ -9495,6 +9955,7 @@ GameObject:
   - component: {fileID: 8981942014769016408}
   - component: {fileID: 4167692455781481051}
   - component: {fileID: 1482739112}
+  - component: {fileID: 7715023564349481946}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9502,6 +9963,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564349481946
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564349481945}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564362022338
 GameObject:
   m_ObjectHideFlags: 0
@@ -9516,6 +9996,7 @@ GameObject:
   - component: {fileID: 4167692455760585792}
   - component: {fileID: 520659151}
   - component: {fileID: 520659150}
+  - component: {fileID: 7715023564362022339}
   m_Layer: 0
   m_Name: Point(13)
   m_TagString: Coin
@@ -9523,6 +10004,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564362022339
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564362022338}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564368161114
 GameObject:
   m_ObjectHideFlags: 0
@@ -9536,6 +10036,7 @@ GameObject:
   - component: {fileID: 8981942014749287643}
   - component: {fileID: 4167692455762800856}
   - component: {fileID: 1674268769}
+  - component: {fileID: 7715023564368161115}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9543,6 +10044,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564368161115
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564368161114}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564418246923
 GameObject:
   m_ObjectHideFlags: 0
@@ -9556,6 +10076,7 @@ GameObject:
   - component: {fileID: 8981942014699234442}
   - component: {fileID: 4167692455712747657}
   - component: {fileID: 836678187}
+  - component: {fileID: 7715023564418246924}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9563,6 +10084,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564418246924
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564418246923}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564455219774
 GameObject:
   m_ObjectHideFlags: 0
@@ -9576,6 +10116,7 @@ GameObject:
   - component: {fileID: 8981942014857191359}
   - component: {fileID: 4167692456120323004}
   - component: {fileID: 938265947}
+  - component: {fileID: 7715023564455219775}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9583,6 +10124,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564455219775
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564455219774}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564533578494
 GameObject:
   m_ObjectHideFlags: 0
@@ -9597,6 +10157,7 @@ GameObject:
   - component: {fileID: 4167692456067146620}
   - component: {fileID: 1091557695}
   - component: {fileID: 1091557694}
+  - component: {fileID: 7715023564533578495}
   m_Layer: 0
   m_Name: Point(17)
   m_TagString: Coin
@@ -9604,6 +10165,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564533578495
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564533578494}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564566496363
 GameObject:
   m_ObjectHideFlags: 0
@@ -9617,6 +10197,7 @@ GameObject:
   - component: {fileID: 8981942014818257386}
   - component: {fileID: 4167692456101322217}
   - component: {fileID: 93956456}
+  - component: {fileID: 7715023564566496364}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9624,6 +10205,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564566496364
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564566496363}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564613248492
 GameObject:
   m_ObjectHideFlags: 0
@@ -9637,6 +10237,7 @@ GameObject:
   - component: {fileID: 8981942015032649837}
   - component: {fileID: 4167692456046230638}
   - component: {fileID: 1537222736}
+  - component: {fileID: 7715023564613248493}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9644,6 +10245,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564613248493
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564613248492}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564616380081
 GameObject:
   m_ObjectHideFlags: 0
@@ -9658,6 +10278,7 @@ GameObject:
   - component: {fileID: 4167692456043067187}
   - component: {fileID: 529745046}
   - component: {fileID: 529745045}
+  - component: {fileID: 7715023564616380082}
   m_Layer: 0
   m_Name: Point(16)
   m_TagString: Coin
@@ -9665,6 +10286,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564616380082
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564616380081}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564671965272
 GameObject:
   m_ObjectHideFlags: 0
@@ -9679,6 +10319,7 @@ GameObject:
   - component: {fileID: 4167692455970718170}
   - component: {fileID: 1756566151}
   - component: {fileID: 1756566150}
+  - component: {fileID: 7715023564671965273}
   m_Layer: 0
   m_Name: Point(9)
   m_TagString: Coin
@@ -9686,6 +10327,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564671965273
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564671965272}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564723121713
 GameObject:
   m_ObjectHideFlags: 0
@@ -9699,6 +10359,7 @@ GameObject:
   - component: {fileID: 8981942015125218224}
   - component: {fileID: 4167692456389343155}
   - component: {fileID: 1392310638}
+  - component: {fileID: 7715023564723121714}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9706,6 +10367,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564723121714
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564723121713}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564788842295
 GameObject:
   m_ObjectHideFlags: 0
@@ -9719,6 +10399,7 @@ GameObject:
   - component: {fileID: 8981942015057375926}
   - component: {fileID: 4167692456323589813}
   - component: {fileID: 1825315866}
+  - component: {fileID: 7715023564788842296}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9726,6 +10407,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564788842296
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564788842295}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564841059826
 GameObject:
   m_ObjectHideFlags: 0
@@ -9739,6 +10439,7 @@ GameObject:
   - component: {fileID: 8981942015276714099}
   - component: {fileID: 4167692456271354992}
   - component: {fileID: 998419280}
+  - component: {fileID: 7715023564841059827}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9746,6 +10447,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564841059827
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564841059826}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564845832645
 GameObject:
   m_ObjectHideFlags: 0
@@ -9759,6 +10479,7 @@ GameObject:
   - component: {fileID: 8981942015277159492}
   - component: {fileID: 4167692456275001415}
   - component: {fileID: 11622931}
+  - component: {fileID: 7715023564845832646}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9766,6 +10487,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564845832646
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564845832645}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564910117651
 GameObject:
   m_ObjectHideFlags: 0
@@ -9779,6 +10519,7 @@ GameObject:
   - component: {fileID: 8981942015207624338}
   - component: {fileID: 4167692456202328721}
   - component: {fileID: 513470903}
+  - component: {fileID: 7715023564910117652}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9786,6 +10527,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564910117652
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564910117651}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564914306769
 GameObject:
   m_ObjectHideFlags: 0
@@ -9800,6 +10560,7 @@ GameObject:
   - component: {fileID: 4167692456206514003}
   - component: {fileID: 1096404739}
   - component: {fileID: 1096404738}
+  - component: {fileID: 7715023564914306770}
   m_Layer: 0
   m_Name: Point(12)
   m_TagString: Coin
@@ -9807,6 +10568,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564914306770
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564914306769}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564933006834
 GameObject:
   m_ObjectHideFlags: 0
@@ -9821,6 +10601,7 @@ GameObject:
   - component: {fileID: 4167692456196185200}
   - component: {fileID: 389336843}
   - component: {fileID: 389336842}
+  - component: {fileID: 7715023564933006835}
   m_Layer: 0
   m_Name: Point(10)
   m_TagString: Coin
@@ -9828,6 +10609,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564933006835
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564933006834}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564939995032
 GameObject:
   m_ObjectHideFlags: 0
@@ -9841,6 +10641,7 @@ GameObject:
   - component: {fileID: 8981942015241693721}
   - component: {fileID: 4167692456239545882}
   - component: {fileID: 699678920}
+  - component: {fileID: 7715023564939995033}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9848,6 +10649,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564939995033
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564939995032}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023564952358839
 GameObject:
   m_ObjectHideFlags: 0
@@ -9861,6 +10681,7 @@ GameObject:
   - component: {fileID: 8981942015237800502}
   - component: {fileID: 4167692456252364341}
   - component: {fileID: 1569058922}
+  - component: {fileID: 7715023564952358840}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9868,6 +10689,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023564952358840
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023564952358839}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565013798298
 GameObject:
   m_ObjectHideFlags: 0
@@ -9881,6 +10721,7 @@ GameObject:
   - component: {fileID: 8981942015445778459}
   - component: {fileID: 4167692456711017496}
   - component: {fileID: 2012821610}
+  - component: {fileID: 7715023565013798299}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9888,6 +10729,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565013798299
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565013798298}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565046485869
 GameObject:
   m_ObjectHideFlags: 0
@@ -9901,6 +10761,7 @@ GameObject:
   - component: {fileID: 8981942015348055788}
   - component: {fileID: 4167692456611187439}
   - component: {fileID: 110375300}
+  - component: {fileID: 7715023565046485870}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9908,6 +10769,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565046485870
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565046485869}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565057358515
 GameObject:
   m_ObjectHideFlags: 0
@@ -9922,6 +10802,7 @@ GameObject:
   - component: {fileID: 4167692456591975217}
   - component: {fileID: 1864867084}
   - component: {fileID: 1864867083}
+  - component: {fileID: 7715023565057358516}
   m_Layer: 0
   m_Name: Point(19)
   m_TagString: Coin
@@ -9929,6 +10810,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565057358516
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565057358515}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565140661895
 GameObject:
   m_ObjectHideFlags: 0
@@ -9943,6 +10843,7 @@ GameObject:
   - component: {fileID: 4167692456533790469}
   - component: {fileID: 1711766246}
   - component: {fileID: 1711766245}
+  - component: {fileID: 7715023565140661896}
   m_Layer: 0
   m_Name: Point(6)
   m_TagString: Coin
@@ -9950,6 +10851,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565140661896
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565140661895}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565151026079
 GameObject:
   m_ObjectHideFlags: 0
@@ -9963,6 +10883,7 @@ GameObject:
   - component: {fileID: 8981942015570687518}
   - component: {fileID: 4167692456582160925}
   - component: {fileID: 107476229}
+  - component: {fileID: 7715023565151026080}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9970,6 +10891,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565151026080
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565151026079}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565225107058
 GameObject:
   m_ObjectHideFlags: 0
@@ -9983,6 +10923,7 @@ GameObject:
   - component: {fileID: 8981942015493510131}
   - component: {fileID: 4167692456491288560}
   - component: {fileID: 798323809}
+  - component: {fileID: 7715023565225107059}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -9990,6 +10931,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565225107059
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565225107058}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565228672568
 GameObject:
   m_ObjectHideFlags: 0
@@ -10003,6 +10963,7 @@ GameObject:
   - component: {fileID: 8981942015493016505}
   - component: {fileID: 4167692456487722938}
   - component: {fileID: 2034919904}
+  - component: {fileID: 7715023565228672569}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -10010,6 +10971,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565228672569
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565228672568}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7715023565230478159
 GameObject:
   m_ObjectHideFlags: 0
@@ -10023,6 +11003,7 @@ GameObject:
   - component: {fileID: 8981942015498624718}
   - component: {fileID: 4167692456494303949}
   - component: {fileID: 1728657764}
+  - component: {fileID: 7715023565230478160}
   m_Layer: 0
   m_Name: Point
   m_TagString: Coin
@@ -10030,6 +11011,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!95 &7715023565230478160
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715023565230478159}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7b033f76e235e404c91bfe76b04e683e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &8616146927768298514
 MonoBehaviour:
   m_ObjectHideFlags: 0

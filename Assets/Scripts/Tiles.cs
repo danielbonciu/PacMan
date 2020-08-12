@@ -9,12 +9,8 @@ public class Tiles : MonoBehaviour
     public bool isSuperPellet;
     public bool didConsume;
 
-
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void Start()
     {
-        if (collision.gameObject.CompareTag("Player") && didConsume == false)
-        {
-            ScoreManager.instace.ChangeScore(1);
-        }
+        didConsume = false;
     }
 }

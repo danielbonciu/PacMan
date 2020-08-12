@@ -34,8 +34,11 @@ public class Pinky : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             Destroy(other.gameObject);
+            return;
         }
     }
+
+
     void UpdateOrientation()
     {
         if (direction == UnityEngine.Vector2.left)
