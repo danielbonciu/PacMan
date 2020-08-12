@@ -42,9 +42,6 @@ public class PacManController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("GOAL:" + GameObject.Find("Game").GetComponent<GameBoard>().totalPellets);
-        Debug.Log("SCORE:" + GameObject.Find("Game").GetComponent<GameBoard>().score);
-
         CheckInput();
 
         Move();

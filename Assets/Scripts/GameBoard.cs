@@ -24,7 +24,7 @@ public class GameBoard : MonoBehaviour
         {
             Vector2 pos = o.transform.position;
 
-            if (o.name != "Player" && o.name != "Nodes" && o.name != "NotNodes" && o.name != "Collidable" && o.name != "Ghost")
+            if (o.name != "Player" && o.name != "Collidable" && o.name != "Ghost")
             {
                 if(o.GetComponent<Tiles>() != null)
                 {
