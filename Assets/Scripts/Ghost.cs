@@ -45,15 +45,15 @@ public class Ghost : MonoBehaviour
     {
         PacMan = GameObject.FindGameObjectWithTag("Player");
 
-        Node node = GetNodeAtPosition(transform.localPosition);
+        startingPosition = GetNodeAtPosition(transform.localPosition);
 
-        if(node != null)
+        if(startingPosition != null)
         {
-            currentNode = node;
+            currentNode = startingPosition;
         }
 
-        direction = UnityEngine.Vector2.right;
 
+        direction = UnityEngine.Vector2.left;
         previousNode = currentNode;
 
         UnityEngine.Vector2 pacmanPosition = PacMan.transform.position;
@@ -68,11 +68,10 @@ public class Ghost : MonoBehaviour
 
         Move();
 
-
     }
     void Move()
     {
-        if(targetNode != currentNode && targetNode != null)
+        if (targetNode != currentNode && targetNode != null)
         {
             if (OverShotTarget())
             {
@@ -97,17 +96,16 @@ public class Ghost : MonoBehaviour
             }
             else
             {
-                Debug.Log(direction);
 
                 transform.localPosition += (UnityEngine.Vector3)(direction * ghostSpeed) * Time.deltaTime;
             }
         }
-        
+
     }
 
     void ModeUpdate()
     {
-        if(currentMode != Mode.Frightened)
+        if (currentMode != Mode.Frightened)
         {
             modeChangeTimer += Time.deltaTime;
 

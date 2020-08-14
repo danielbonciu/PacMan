@@ -33,7 +33,6 @@ public class PacManController : MonoBehaviour
         if (node != null)
         {
             currentNode = node;
-            Debug.Log(currentNode);
         }
 
         direction = UnityEngine.Vector2.left;
@@ -53,9 +52,9 @@ public class PacManController : MonoBehaviour
         ConsumePellet();
         //if (!audioSrc.isPlaying)
         //{
-         //   audioSrc.Play();
+        //   audioSrc.Play();
         //}
-       
+
     }
     
     void CheckInput()
@@ -141,6 +140,15 @@ public class PacManController : MonoBehaviour
 
                 transform.localPosition = currentNode.transform.position;
 
+                GameObject otherPortal = GetPortal(currentNode.transform.position);
+
+                if (otherPortal != null)
+                {
+                    transform.localPosition = otherPortal.transform.position;
+
+                    currentNode = otherPortal.GetComponent<Node>();
+                }
+
                 Node moveToNode = CanMove(nextDirection);
 
                 if (moveToNode != null)
@@ -167,15 +175,6 @@ public class PacManController : MonoBehaviour
         }
     }
 
-    //void MoveToNode(UnityEngine.Vector2 d)
-    //{
-    //    Node moveToNode = CanMove(d);
-    //    if (moveToNode != null)
-    //    {
-    //        transform.localPosition = moveToNode.transform.position;
-    //        currentNode = moveToNode;
-    //    }
-    //}
     
     void UpdateAnimationState()
     {
@@ -202,16 +201,6 @@ public class PacManController : MonoBehaviour
             }
         }
         return moveToNode;
-    }
-
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Enemy"))
-        {
-            Debug.Log("GAME OVER!");
-            return;
-        }
     }
 
     void ConsumePellet()
@@ -272,6 +261,26 @@ public class PacManController : MonoBehaviour
     {
         UnityEngine.Vector2 vec = targetPosition - (UnityEngine.Vector2)previousNode.transform.position;
         return vec.sqrMagnitude;
+    }
+
+    GameObject GetPortal(UnityEngine.Vector2 pos)
+    {
+        GameObject tile = GameObject.Find("Game").GetComponent<GameBoard>().board[(int)pos.x, (int)pos.y];
+
+        if(tile != null)
+        {
+            if (tile.GetComponent<Tiles>() != null)
+            {
+
+                if (tile.GetComponent<Tiles>().isPortal)
+                {
+                    GameObject otherPortal = tile.GetComponent<Tiles>().portalReceiver;
+
+                    return otherPortal;
+                }
+            }
+        }
+        return null;
     }
 
 }

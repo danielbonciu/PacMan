@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Net.Sockets;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -24,13 +25,14 @@ public class GameBoard : MonoBehaviour
         {
             Vector2 pos = o.transform.position;
 
-            if (o.name != "Player" && o.name != "Collidable" && o.name != "Ghost")
+            if (o.name != "Player" && o.name != "Nodes" && o.name != "NotNodes" && o.name != "Collidable" && o.name != "BaseLayer" && o.name != "Ghost" && o.name != "Canvas")
             {
                 if(o.GetComponent<Tiles>() != null)
                 {
                     if(o.GetComponent<Tiles>().isPellet || o.GetComponent<Tiles>().isSuperPellet)
                     {
                         totalPellets++;
+                        Debug.Log(o.name);
                     }
                 }
 
@@ -41,11 +43,19 @@ public class GameBoard : MonoBehaviour
                 Debug.Log("Found Pacman at: " + pos);
             }
         }
+
+        Debug.Log(totalPellets);
     }
 
     // Update is called once per frame
     void Update()
     {
         text.text = "Score: " + score.ToString() + "/"  + totalPellets.ToString();
+
+        if (score == totalPellets)
+        {
+            Debug.Log("You Win!");
+            return;
+        }
     }
 }
